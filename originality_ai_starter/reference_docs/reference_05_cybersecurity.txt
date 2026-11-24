@@ -1,0 +1,1 @@
+Cybersecurity focuses on protecting computers, networks, applications, and information from unauthorized access or attacks. Common threats include phishing, malware, ransomware, and password theft. Strong authentication, software updates, encryption, backups, and user awareness are important parts of a security strategy.

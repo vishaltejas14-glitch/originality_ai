@@ -1,0 +1,1 @@
+A database management system is software that allows users to create, store, retrieve, and manage data in an organized manner. Relational databases store information in tables consisting of rows and columns. SQL is commonly used to query and manipulate relational data. Database systems support data consistency, security, concurrency, and recovery.

@@ -1,0 +1,1 @@
+Artificial intelligence is the field of developing computer systems capable of performing tasks that typically require human intelligence. Examples include understanding language, recognizing images, solving problems, and making predictions. Modern AI systems use methods such as machine learning and deep learning to identify patterns in large datasets.
